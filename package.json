@@ -18,7 +18,7 @@
     "hubot": ">= 2.0.0",
     "hubot-gtalk": ">= 0.0.1",
     "hubot-scripts": ">=2.0.4",
-    "optparse": "1.0.3"
+    "optparse": "1.0.5"
   }
 }
 
